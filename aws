@@ -5,6 +5,7 @@ print(name)
 # Output: 
 # Enter your name: James
 # James
+<<<<<<< Updated upstream
 
 
 Pythin samople code added pushed from local
@@ -17,3 +18,13 @@ sum = a + b
 print("The id of sum is", id(sum))
 
 # Output: The id of sum is 9789312
+=======
+#
+# without perofrmie no chnages devops class 
+#
+# languages = ['Python', 'Java', 'JavaScript']
+
+length = len(languages)
+
+print(length)  # Output: 3
+>>>>>>> Stashed changes
